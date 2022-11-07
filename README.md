@@ -1,3 +1,4 @@
 ﻿# ADP_Assessment
- To Install packages, run npm install\n
- To run the program, run npm start
+ To Install packages, run ```npm install```
+ 
+ To run the program, run ```npm start```
